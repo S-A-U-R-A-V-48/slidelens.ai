@@ -139,45 +139,20 @@ isn't that awesome .
 
 -----------------------------------only add pictures no link
 <img width="1156" height="576" alt="frame_bgonly_0" src="https://github.com/user-attachments/assets/ce68fd01-113b-41db-918d-2d1650faa38f" />
+<img width="1156" height="576" alt="frame_bgonly_0" src="https://github.com/S-A-U-R-A-V-48/slidelens.ai/blob/main/frame_bgonly_30.png" />
+<img width="1156" height="576" alt="frame_bgonly_0" src="https://github.com/S-A-U-R-A-V-48/slidelens.ai/blob/main/frame_bgonly_60.png" />
+<img width="1156" height="576" alt="frame_bgonly_0" src="https://github.com/S-A-U-R-A-V-48/slidelens.ai/blob/main/frame_bgonly_90.png" />
+<img width="1156" height="576" alt="frame_bgonly_0" src="https://github.com/S-A-U-R-A-V-48/slidelens.ai/blob/main/frame_bgonly_120.png" />
+<img width="1156" height="576" alt="frame_bgonly_0" src="https://github.com/S-A-U-R-A-V-48/slidelens.ai/blob/main/frame_bgonly_150.png" />
+<img width="1156" height="576" alt="frame_bgonly_0" src="https://github.com/S-A-U-R-A-V-48/slidelens.ai/blob/main/frame_bgonly_180.png" />
+<img width="1156" height="576" alt="frame_bgonly_0" src="https://github.com/S-A-U-R-A-V-48/slidelens.ai/blob/main/frame_bgonly_210.png" />
+<img width="1156" height="576" alt="frame_bgonly_0" src="https://github.com/S-A-U-R-A-V-48/slidelens.ai/blob/main/frame_bgonly_240.png" />
+<img width="1156" height="576" alt="frame_bgonly_0" src="https://github.com/S-A-U-R-A-V-48/slidelens.ai/blob/main/frame_bgonly_270.png" />
 
-<img width="1156" height="576" alt="frame_bgonly_30-1" src="https://github.com/user-attachments/assets/ce68fd01-113b-41db-918d-2d1650faa38f" />
-
-<img width="1156" height="576" alt="frame_bgonly_60-1" src="https://github.com/user-attachments/assets/ce68fd01-113b-41db-918d-2d1650faa38f" />
-
-<img width="1156" height="576" alt="frame_bgonly_90-1" src="https://github.com/user-attachments/assets/ce68fd01-113b-41db-918d-2d1650faa38f" />
-
-<img width="1156" height="576" alt="frame_bgonly_120-1" src="https://github.com/user-attachments/assets/ce68fd01-113b-41db-918d-2d1650faa38f" />
-
-<img width="1156" height="576" alt="frame_bgonly_150-1" src="https://github.com/user-attachments/assets/ce68fd01-113b-41db-918d-2d1650faa38f" />
-
-<img width="1156" height="576" alt="frame_bgonly_180-1" src="https://github.com/user-attachments/assets/ce68fd01-113b-41db-918d-2d1650faa38f" />
-
-<img width="1156" height="576" alt="frame_bgonly_210-1" src="https://github.com/user-attachments/assets/ce68fd01-113b-41db-918d-2d1650faa38f" />
-
-<img width="1156" height="576" alt="frame_bgonly_240-1" src="https://github.com/user-attachments/assets/ce68fd01-113b-41db-918d-2d1650faa38f" />
-
-<img width="1156" height="576" alt="frame_bgonly_270-1" src="https://github.com/user-attachments/assets/ce68fd01-113b-41db-918d-2d1650faa38f" />
-
-<img width="1156" height="576" alt="composite_image-1" src="https://github.com/user-attachments/assets/ce68fd01-113b-41db-918d-2d1650faa38f" />
-![alt text](frame_bgonly_30-1.png)
-
-![alt text](frame_bgonly_60-1.png)
-
-![alt text](frame_bgonly_90-1.png)
-
-![alt text](frame_bgonly_120-1.png)
-
-![alt text](frame_bgonly_150-1.png)
-
-![alt text](frame_bgonly_180-1.png)
-
-![alt text](frame_bgonly_210-1.png)
-
-![alt text](frame_bgonly_240-1.png)
-
-![alt text](frame_bgonly_270-1.png)
 
 final image without any obstacle and holes!
+
+<img width="1156" height="576" alt="frame_bgonly_0" src="https://github.com/S-A-U-R-A-V-48/slidelens.ai/blob/main/composite_image.png" />
 
 ![alt text](composite_image-1.png)
 
