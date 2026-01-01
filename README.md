@@ -138,7 +138,7 @@ isn't that awesome .
 --repeat the process for all the slides, find images with holes and then combine those images to get the final composite_image without any hole and free from obsticle
 
 -----------------------------------only add pictures no link
-<img width="1156" height="576" alt="frame_bgonly_0" src="https://github.com/S-A-U-R-A-V-48/slidelens.ai/blob/main/original_img.jpeg" />
+<img width="1156" height="576" alt="frame_bgonly_0" src="https://github.com/S-A-U-R-A-V-48/slidelens.ai/blob/main/original_img2.jpeg" />
 <img width="1156" height="576" alt="frame_bgonly_0" src="https://github.com/user-attachments/assets/ce68fd01-113b-41db-918d-2d1650faa38f" />
 <img width="1156" height="576" alt="frame_bgonly_0" src="https://github.com/S-A-U-R-A-V-48/slidelens.ai/blob/main/frame_bgonly_30.png" />
 <img width="1156" height="576" alt="frame_bgonly_0" src="https://github.com/S-A-U-R-A-V-48/slidelens.ai/blob/main/frame_bgonly_60.png" />
